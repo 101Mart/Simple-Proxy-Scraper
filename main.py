@@ -10,7 +10,6 @@ init(convert=True)
 # FILES
 
 https_file = open("https.txt","a") 
-socks4_read = open("socks4.txt", "r")
 socks4_file = open("socks4.txt", "a")
 http_file = open("http.txt", "a")
 socks5_file = open("socks5.txt", "a")
